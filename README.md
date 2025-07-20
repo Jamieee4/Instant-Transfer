@@ -60,7 +60,7 @@ Instant Transfer is a full-stack application that allows users to transfer money
    npm run dev
    ```
 
-The server runs at `http://localhost:5000` and the client at `http://localhost:5173`.
+The server runs at `http://localhost:5001` and the client at `http://localhost:5173`.
 
 ## Usage
 1. **Sign Up**: Register a new account on the `/signup` page.
