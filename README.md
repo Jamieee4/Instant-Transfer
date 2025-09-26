@@ -30,8 +30,8 @@ Instant Transfer is a full-stack application that allows users to transfer money
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vvssgowtham/InstantTransfer.git
-   cd InstantTransfer
+   git clone https://github.com/Jamieee4/Instant-Transfer.git
+   cd Instant-Transfer
    ```
 
 2. **Install dependencies:**
